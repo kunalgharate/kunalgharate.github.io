@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Kunal Gharate (Android Developer)
 
 You can use the [editor on GitHub](https://github.com/kunalgharate/kunalgharate.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
