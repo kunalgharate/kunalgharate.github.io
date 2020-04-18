@@ -1,9 +1,12 @@
 ## Kunal Gharate (Android Developer)
 
-## Permanent Address: Plot no 196,Gat no.194, Shramiknagar, Satpur, Nashik-422012
-Local Address : Srpf camp gat 8 , jogeshwari east mumbai.
-Mobile: +919665255534
-Email:kunalgharate@gmail.com
+### Permanent Address: Plot no 196,Gat no.194, Shramiknagar, Satpur, Nashik-422012
+
+###Local Address : Srpf camp gat 8 , jogeshwari east mumbai.
+
+###Mobile: +919665255534
+
+###Email:kunalgharate@gmail.com
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
