@@ -90,7 +90,7 @@ content:
 
         content:
       - layout: left
-        title: The Boring Company
+        title: Schedio Tech pvt ltd
         link: boringcompany.com
       # link_text: boringcompany.com
         sub_title: Senior Network System Administrator
@@ -105,9 +105,9 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Pune University
+        caption: 2015 - 2018
+        sub_title: MCA ENGINEERING
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
@@ -129,11 +129,11 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+#footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+#remote_theme: sproogen/resume-theme
 
 sass:
   sass_dir: _sass
