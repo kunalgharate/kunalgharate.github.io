@@ -39,16 +39,16 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-middle
+     - layout: top-middle
         title: EE App - Subscription Services
         link: https://ee.co.uk
         quote: >
           A flagship app serving 25M+ customers in 60 countries, built with Flutter for EE, UK's largest subscription business.
         description: |
-          * Flutter, Bloc, AutoRoute, Firebase, AEM, Dynatrace
-          * Built "Add TV to Broadband" journey from scratch, launched with 0 defects
-          * Integrated Apple/NowTV workflows, custom UI themes, accessibility compliance
-          * Tech lead responsibilities in performance, reliability, and error monitoring
+          - Flutter, Bloc, AutoRoute, Firebase, AEM, Dynatrace
+          - Built "Add TV to Broadband" journey from scratch, launched with 0 defects
+          - Integrated Apple/NowTV workflows, custom UI themes, accessibility compliance
+          - Tech lead responsibilities in performance, reliability, and error monitoring
 
       - layout: top-middle
         title: ByTeacher - Education Intelligence
@@ -56,8 +56,8 @@ content:
         quote: >
           A hybrid learning app integrating Zoom and biometric features for education.
         description: |
-          * Android, Kotlin, Zoom SDK, Biometric API
-          * Attendance via biometrics, live Zoom sessions, AI-driven assessments
+          - Android, Kotlin, Zoom SDK, Biometric API
+          - Attendance via biometrics, live Zoom sessions, AI-driven assessments
 
       - layout: top-middle
         title: Health Interface
@@ -65,8 +65,8 @@ content:
         quote: >
           A cross-platform health ecosystem for scheduling virtual visits and managing records.
         description: |
-          * Flutter, Dart, Getx, GraphQL
-          * Real-time consultation, doctor search, reminders, and Vonage API integration
+          - Flutter, Dart, Getx, GraphQL
+          - Real-time consultation, doctor search, reminders, and Vonage API integration
 
       - layout: top-middle
         title: Bamboo - Skip The Wait
@@ -74,16 +74,16 @@ content:
         quote: >
           A social dining app for ordering food and splitting bills in groups.
         description: |
-          * Firebase, Android, Bitbucket, Bitrise
-          * Real-time order syncing, Firebase notifications, bill splitting logic
+          - Firebase, Android, Bitbucket, Bitrise
+          - Real-time order syncing, Firebase notifications, bill splitting logic
 
       - layout: top-middle
         title: Reach52 Access
         quote: >
           Offline-first health app empowering underserved communities.
         description: |
-          * Kotlin, RxJava, Realm, MongoDB, Couchbase
-          * Offline sync, health campaign automation, data bridging in rural areas
+          - Kotlin, RxJava, Realm, MongoDB, Couchbase
+          - Offline sync, health campaign automation, data bridging in rural areas
 
       - layout: top-middle
         title: Art To Frame
@@ -91,7 +91,7 @@ content:
         quote: >
           Android-based e-commerce platform for custom photo framing.
         description: |
-          * Canvas rendering, REST APIs, user-centric design
+          - Canvas rendering, REST APIs, user-centric design
 
       - layout: top-middle
         title: Live Queen of Hearts
@@ -99,7 +99,7 @@ content:
         quote: >
           Interactive prize draw platform with live events and jackpot tracking.
         description: |
-          * Firebase, Android, PHP, MySQL, Ad monetization
+          - Firebase, Android, PHP, MySQL, Ad monetization
 
       - layout: top-middle
         title: Zibito
@@ -107,7 +107,7 @@ content:
         quote: >
           Business catalog and inventory manager app with tax support.
         description: |
-          * Kotlin, MVVM, Bitbucket, Jira
+          - Kotlin, MVVM, Bitbucket, Jira
 
       - layout: top-middle
         title: Simple Mobile Service (SMS)
@@ -115,7 +115,7 @@ content:
         quote: >
           Complaint tracking and digital product platform for businesses.
         description: |
-          * Android, Material Design, REST APIs
+          - Android, Material Design, REST APIs
 
   - title: Experience
     layout: list
