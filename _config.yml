@@ -27,7 +27,7 @@ youtube_username: kunalgharate
 about_profile_image: images/profile.jpg
 about_content: |
   Hi, I'm Kunal Gharate, a Senior Android Developer passionate about building seamless, performant mobile experiences.
-  
+
   With a strong foundation in <mark>Java</mark> and <mark>Kotlin</mark>, I specialize in Android and Flutter development, leading impactful projects that solve real-world problems.
 
   My work is fueled by continuous learning, a love for clean architecture, and a deep commitment to user-centric design.
@@ -37,8 +37,8 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: EE App - Subscription Services
-        link: https://ee.co.uk
+        title: "EE App - Subscription Services"
+        link: "https://ee.co.uk"
         quote: >
           A flagship app serving 25M+ customers in 60 countries, built with Flutter for EE, UK's largest subscription business.
         description: |
@@ -48,8 +48,8 @@ content:
           * Tech lead responsibilities in performance, reliability, and error monitoring
 
       - layout: top-middle
-        title: ByTeacher - Education Intelligence
-        link: https://app.byteachers.com
+        title: "ByTeacher - Education Intelligence"
+        link: "https://app.byteachers.com"
         quote: >
           A hybrid learning app integrating Zoom and biometric features for education.
         description: |
@@ -57,8 +57,8 @@ content:
           * Attendance via biometrics, live Zoom sessions, AI-driven assessments
 
       - layout: top-middle
-        title: Health Interface
-        link: https://healthinterface.com
+        title: "Health Interface"
+        link: "https://healthinterface.com"
         quote: >
           A cross-platform health ecosystem for scheduling virtual visits and managing records.
         description: |
@@ -66,8 +66,8 @@ content:
           * Real-time consultation, doctor search, reminders, and Vonage API integration
 
       - layout: top-middle
-        title: Bamboo - Skip The Wait
-        link: https://tinyurl.com/ei-bambooapp
+        title: "Bamboo - Skip The Wait"
+        link: "https://tinyurl.com/ei-bambooapp"
         quote: >
           A social dining app for ordering food and splitting bills in groups.
         description: |
@@ -75,7 +75,7 @@ content:
           * Real-time order syncing, Firebase notifications, bill splitting logic
 
       - layout: top-middle
-        title: Reach52 Access
+        title: "Reach52 Access"
         quote: >
           Offline-first health app empowering underserved communities.
         description: |
@@ -83,32 +83,32 @@ content:
           * Offline sync, health campaign automation, data bridging in rural areas
 
       - layout: top-middle
-        title: Art To Frame
-        link: https://arttoframe.com
+        title: "Art To Frame"
+        link: "https://arttoframe.com"
         quote: >
           Android-based e-commerce platform for custom photo framing.
         description: |
           * Canvas rendering, REST APIs, user-centric design
 
       - layout: top-middle
-        title: Live Queen of Hearts
-        link: https://livequeenofhearts.com
+        title: "Live Queen of Hearts"
+        link: "https://livequeenofhearts.com"
         quote: >
           Interactive prize draw platform with live events and jackpot tracking.
         description: |
           * Firebase, Android, PHP, MySQL, Ad monetization
 
       - layout: top-middle
-        title: Zibito
-        link: https://play.google.com/store/apps/details?id=in.schedio.zibito
+        title: "Zibito"
+        link: "https://play.google.com/store/apps/details?id=in.schedio.zibito"
         quote: >
           Business catalog and inventory manager app with tax support.
         description: |
           * Kotlin, MVVM, Bitbucket, Jira
 
       - layout: top-middle
-        title: Simple Mobile Service (SMS)
-        link: http://simplemobileservice.com
+        title: "Simple Mobile Service (SMS)"
+        link: "http://simplemobileservice.com"
         quote: >
           Complaint tracking and digital product platform for businesses.
         description: |
@@ -118,49 +118,49 @@ content:
     layout: list
     content:
       - layout: left
-        title: Tech Mahindra Pvt Ltd
-        sub_title: Sr. Software Engineer
-        caption: Dec 6, 2023 - Present
+        title: "Tech Mahindra Pvt Ltd"
+        sub_title: "Sr. Software Engineer"
+        caption: "Dec 6, 2023 - Present"
       - layout: left
-        title: Paptronics Pvt Ltd
-        sub_title: Sr. Android Developer
-        caption: Jan 2, 2023 - Sep 30, 2023
+        title: "Paptronics Pvt Ltd"
+        sub_title: "Sr. Android Developer"
+        caption: "Jan 2, 2023 - Sep 30, 2023"
       - layout: left
-        title: CoreValue Technologies Pvt Ltd
-        sub_title: Mobile Development Engineer
-        caption: Oct 18, 2021 - Dec 31, 2022
+        title: "CoreValue Technologies Pvt Ltd"
+        sub_title: "Mobile Development Engineer"
+        caption: "Oct 18, 2021 - Dec 31, 2022"
       - layout: left
-        title: Reach52 Pvt Ltd
-        sub_title: Android Developer
-        caption: Aug 10, 2021 - Oct 15, 2021
+        title: "Reach52 Pvt Ltd"
+        sub_title: "Android Developer"
+        caption: "Aug 10, 2021 - Oct 15, 2021"
       - layout: left
-        title: Solace Infotech Pvt Ltd
-        sub_title: Associate Software Consultant
-        caption: Mar 4, 2020 - Aug 6, 2021
+        title: "Solace Infotech Pvt Ltd"
+        sub_title: "Associate Software Consultant"
+        caption: "Mar 4, 2020 - Aug 6, 2021"
       - layout: left
-        title: Schedio Tech Pvt Ltd
-        sub_title: Software Engineer
-        caption: Apr 1, 2019 - Feb 29, 2020
+        title: "Schedio Tech Pvt Ltd"
+        sub_title: "Software Engineer"
+        caption: "Apr 1, 2019 - Feb 29, 2020"
       - layout: left
-        title: RsalesArm Pvt Ltd
-        sub_title: Android Developer
-        caption: Nov 20, 2018 - Mar 30, 2019
+        title: "RsalesArm Pvt Ltd"
+        sub_title: "Android Developer"
+        caption: "Nov 20, 2018 - Mar 30, 2019"
       - layout: left
-        title: More's Info
-        sub_title: Android Developer
-        caption: Apr 1, 2017 - Oct 31, 2018
+        title: "More's Info"
+        sub_title: "Android Developer"
+        caption: "Apr 1, 2017 - Oct 31, 2018"
 
   - title: Education
     layout: list
     content:
       - layout: left
-        title: Savitribai Phule Pune University
-        caption: 2015 - 2018
-        sub_title: MCA Engineering, CGPA: 8.3
+        title: "Savitribai Phule Pune University"
+        caption: "2015 - 2018"
+        sub_title: "MCA Engineering, CGPA: 8.3"
       - layout: left
-        title: Savitribai Phule Pune University
-        caption: 2012 - 2015
-        sub_title: Bachelor of Commerce, CGPA: 5.9
+        title: "Savitribai Phule Pune University"
+        caption: "2012 - 2015"
+        sub_title: "Bachelor of Commerce, CGPA: 5.9"
 
   - title: Skills
     layout: text
@@ -174,30 +174,11 @@ content:
     layout: list
     content:
       - layout: left
-        title: Project Completion Award - EE App
-        sub_title: Tech Mahindra Leadership
-        caption: Oct 2023
-        description: Successfully launched Add TV Journey with 10+ initial orders, in partnership with BT Group.
+        title: "Project Completion Award - EE App"
+        sub_title: "Tech Mahindra Leadership"
+        caption: "Oct 2023"
+        description: "Successfully launched Add TV Journey with 10+ initial orders, in partnership with BT Group."
       - layout: left
-        title: Project Completion Award - Reach52
-        sub_title: Recognition of Leadership
-        description: Recognized for exemplary contribution and leadership in app development for underserved regions.
-
-  - title: A Little More About Me
-    layout: text
-    content: |
-      Apart from software development, my hobbies include:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - Chess
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
-  - jekyll-seo-tag
+        title: "Project Completion Award - Reach52"
+        sub_title: "Recognition of Leadership"
+        description: "Recognized for exemplary c
