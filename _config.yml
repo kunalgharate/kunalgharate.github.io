@@ -181,4 +181,23 @@ content:
       - layout: left
         title: "Project Completion Award - Reach52"
         sub_title: "Recognition of Leadership"
-        description: "Recognized for exemplary c
+        description: "Recognized for exemplary contribution and leadership in app development for underserved regions."
+
+  - title: A Little More About Me
+    layout: text
+    content: |
+      Apart from software development, my hobbies include:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - Chess
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
